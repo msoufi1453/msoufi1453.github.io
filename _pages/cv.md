@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/assets/pdf/CV June 2025.pdf" width="100%" height="600px"></iframe>
+<iframe src="/assets/pdf/CV July 2025.pdf" width="100%" height="600px"></iframe>
