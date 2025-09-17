@@ -1,9 +1,10 @@
 ---
-title: "Modeling Microtubule Time to Catastrophe"
-collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-CFRB-poster
-date: 2025-05-05
+title: "Modeling Microtubule Time to Catastrophe (Poster)"
+collection: presentations
+category: posters
+date: 2025-09-01
+pdf: "acssynbio-shapiro-lab.pdf"
 ---
+
 
 <iframe src="/files/Resume CV September 2025.pdf" width="100%" height="200px"></iframe>
