@@ -1,9 +1,10 @@
 ---
-title: "Modeling Microtubule Time to Catastrophe"
-collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-date: 2020-10-01
+title: "Modeling Microtubule Time to Catastrophe (Poster)"
+collection: presentations
+category: posters
+date: 2025-09-01
+pdf: "acssynbio-shapiro-lab.pdf"
+# Optional extras:
+# subtitle: "Conference XYZ • Session ABC"
+# description: "Short blurb about the work or venue."
 ---
-
-[Website](https://meganwang08.github.io/microtubule-catastrophe/)
