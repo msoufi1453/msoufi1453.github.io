@@ -5,7 +5,9 @@ type: "Talk"
 permalink: /talks/2025-07-15-Biosecurity-Essay
 ---
 
-[Article PDF](https://www.synbiobeta.com/read/kokomodo-leads-the-era-of-sustainable-cacao-at-synbiobeta-2025)
+[Download the paper (PDF)](/files/Final%20Document_%20Next%20Generation%20for%20Biosecurity%20Competition%20Paper.pdf)
+
+[Download the paper (PDF)](http://msoufi1453.github.io/files/Final%20Document_%20Next%20Generation%20for%20Biosecurity%20Competition%20Paper.pdf)
 
 <a href="/assets/pdf/CV%20July%202025.pdf" target="_blank">Download the article PDF</a>
 
